@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tristanlib-mcp-server-mysql-windows-badge.png)](https://mseep.ai/app/tristanlib-mcp-server-mysql-windows)
+
 # MCP MySQL 本地数据库服务
 
 MCP MySQL服务是一个轻量级的个人使用服务程序，用于连接和操作本地MySQL数据库。此服务可作为Cursor的MCP服务使用，通过API接口使Cursor能够轻松地执行各种数据库操作。
